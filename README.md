@@ -1,5 +1,6 @@
 # FastFood_App
 I. What I wanted to learn and achieve with this project
+
 As a result of an Udemy course that offered as challenge to create an application in order to manager the process of selling hamburgers I wanted to create a program that would combine and use all the Java-OOP pillars (Inheritance, Encapsulation, Abstraction and Polymorphism) that I got familiar with.
 This application is able to select types of burgers and some of the additional items (additions) that are added to the burgers and pricing. I created a base Hamburger (Class), with two other types of hamburgers.
 The Hamburger (Class) has the following items.
